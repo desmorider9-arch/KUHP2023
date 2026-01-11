@@ -1,0 +1,1229 @@
+Found Pasal 1 in BUKU I .txt line 10. Remainder: ''
+Found Pasal 2 in BUKU I .txt line 15. Remainder: ''
+Found Pasal 3 in BUKU I .txt line 24. Remainder: ''
+Found Pasal 4 in BUKU I .txt line 60. Remainder: ''
+Found Pasal 5 in BUKU I .txt line 66. Remainder: ''
+Found Pasal 6 in BUKU I .txt line 79. Remainder: ''
+Found Pasal 7 in BUKU I .txt line 82. Remainder: ''
+Found Pasal 8 in BUKU I .txt line 85. Remainder: ''
+Found Pasal 9 in BUKU I .txt line 95. Remainder: ''
+Found Pasal 10 in BUKU I .txt line 98. Remainder: ''
+Found Pasal 11 in BUKU I .txt line 101. Remainder: ''
+Found Pasal 12 in BUKU I .txt line 104. Remainder: ''
+Found Pasal 13 in BUKU I .txt line 112. Remainder: ''
+Found Pasal 14 in BUKU I .txt line 122. Remainder: ''
+Found Pasal 15 in BUKU I .txt line 127. Remainder: ''
+Found Pasal 16 in BUKU I .txt line 136. Remainder: ''
+Found Pasal 17 in BUKU I .txt line 142. Remainder: ''
+Found Pasal 18 in BUKU I .txt line 166. Remainder: ''
+Found Pasal 19 in BUKU I .txt line 179. Remainder: ''
+Found Pasal 20 in BUKU I .txt line 185. Remainder: ''
+Found Pasal 21 in BUKU I .txt line 197. Remainder: ''
+Found Pasal 22 in BUKU I .txt line 219. Remainder: ''
+Found Pasal 23 in BUKU I .txt line 226. Remainder: ''
+Found Pasal 24 in BUKU I .txt line 242. Remainder: ''
+Found Pasal 25 in BUKU I .txt line 247. Remainder: ''
+Found Pasal 26 in BUKU I .txt line 263. Remainder: ''
+Found Pasal 27 in BUKU I .txt line 276. Remainder: ''
+Found Pasal 28 in BUKU I .txt line 281. Remainder: ''
+Found Pasal 29 in BUKU I .txt line 287. Remainder: ''
+Found Pasal 30 in BUKU I .txt line 300. Remainder: ''
+Found Pasal 31 in BUKU I .txt line 308. Remainder: ''
+Found Pasal 32 in BUKU I .txt line 312. Remainder: ''
+Found Pasal 33 in BUKU I .txt line 317. Remainder: ''
+Found Pasal 34 in BUKU I .txt line 321. Remainder: ''
+Found Pasal 35 in BUKU I .txt line 328. Remainder: ''
+Found Pasal 36 in BUKU I .txt line 336. Remainder: ''
+Found Pasal 37 in BUKU I .txt line 345. Remainder: ''
+Found Pasal 38 in BUKU I .txt line 353. Remainder: ''
+Found Pasal 39 in BUKU I .txt line 358. Remainder: ''
+Found Pasal 40 in BUKU I .txt line 366. Remainder: ''
+Found Pasal 41 in BUKU I .txt line 370. Remainder: ''
+Found Pasal 42 in BUKU I .txt line 382. Remainder: ''
+Found Pasal 43 in BUKU I .txt line 388. Remainder: ''
+Found Pasal 44 in BUKU I .txt line 393. Remainder: ''
+Found Pasal 45 in BUKU I .txt line 401. Remainder: ''
+Found Pasal 46 in BUKU I .txt line 412. Remainder: ''
+Found Pasal 47 in BUKU I .txt line 420. Remainder: ''
+Found Pasal 48 in BUKU I .txt line 426. Remainder: ''
+Found Pasal 49 in BUKU I .txt line 440. Remainder: ''
+Found Pasal 50 in BUKU I .txt line 446. Remainder: ''
+Found Pasal 51 in BUKU I .txt line 454. Remainder: ''
+Found Pasal 52 in BUKU I .txt line 467. Remainder: ''
+Found Pasal 53 in BUKU I .txt line 471. Remainder: ''
+Found Pasal 54 in BUKU I .txt line 478. Remainder: ''
+Found Pasal 55 in BUKU I .txt line 502. Remainder: ''
+Found Pasal 56 in BUKU I .txt line 508. Remainder: ''
+Found Pasal 57 in BUKU I .txt line 530. Remainder: ''
+Found Pasal 58 in BUKU I .txt line 538. Remainder: ''
+Found Pasal 59 in BUKU I .txt line 549. Remainder: ''
+Found Pasal 60 in BUKU I .txt line 555. Remainder: ''
+Found Pasal 61 in BUKU I .txt line 563. Remainder: ''
+Found Pasal 62 in BUKU I .txt line 572. Remainder: ''
+Found Pasal 63 in BUKU I .txt line 579. Remainder: ''
+Found Pasal 64 in BUKU I .txt line 587. Remainder: ''
+Found Pasal 65 in BUKU I .txt line 593. Remainder: ''
+Found Pasal 66 in BUKU I .txt line 603. Remainder: ''
+Found Pasal 67 in BUKU I .txt line 625. Remainder: ''
+Found Pasal 68 in BUKU I .txt line 630. Remainder: ''
+Found Pasal 69 in BUKU I .txt line 645. Remainder: ''
+Found Pasal 70 in BUKU I .txt line 656. Remainder: ''
+Found Pasal 71 in BUKU I .txt line 698. Remainder: ''
+Found Pasal 72 in BUKU I .txt line 719. Remainder: ''
+Found Pasal 73 in BUKU I .txt line 739. Remainder: ''
+Found Pasal 74 in BUKU I .txt line 767. Remainder: ''
+Found Pasal 75 in BUKU I .txt line 779. Remainder: ''
+Found Pasal 76 in BUKU I .txt line 785. Remainder: ''
+Found Pasal 77 in BUKU I .txt line 822. Remainder: ''
+Found Pasal 78 in BUKU I .txt line 830. Remainder: ''
+Found Pasal 79 in BUKU I .txt line 836. Remainder: '(1) Pidana denda paling banyak ditetapkan berdasarkan:a. kategori 1, Rp1.000.00O,0O (satu juta rupiah);b. kategori II, Rp10.000.000,00 (sepuluh juta rupiah);c. kategori III, Rp50.0O0.O00,0O (lima puluh juta'
+Found Pasal 80 in BUKU I .txt line 848. Remainder: ''
+Found Pasal 81 in BUKU I .txt line 856. Remainder: ''
+Found Pasal 82 in BUKU I .txt line 867. Remainder: ''
+Found Pasal 83 in BUKU I .txt line 895. Remainder: ''
+Found Pasal 84 in BUKU I .txt line 907. Remainder: ''
+Found Pasal 85 in BUKU I .txt line 913. Remainder: ''
+Found Pasal 86 in BUKU I .txt line 969. Remainder: ''
+Found Pasal 87 in BUKU I .txt line 987. Remainder: ''
+Found Pasal 88 in BUKU I .txt line 999. Remainder: ''
+Found Pasal 89 in BUKU I .txt line 1008. Remainder: ''
+Found Pasal 90 in BUKU I .txt line 1018. Remainder: ''
+Found Pasal 91 in BUKU I .txt line 1036. Remainder: ''
+Found Pasal 92 in BUKU I .txt line 1054. Remainder: ''
+Found Pasal 93 in BUKU I .txt line 1069. Remainder: ''
+Found Pasal 94 in BUKU I .txt line 1076. Remainder: ''
+Found Pasal 95 in BUKU I .txt line 1087. Remainder: ''
+Found Pasal 96 in BUKU I .txt line 1111. Remainder: ''
+Found Pasal 97 in BUKU I .txt line 1125. Remainder: ''
+Found Pasal 98 in BUKU I .txt line 1130. Remainder: ''
+Found Pasal 99 in BUKU I .txt line 1134. Remainder: ''
+Found Pasal 100 in BUKU I .txt line 1147. Remainder: ''
+Found Pasal 101 in BUKU I .txt line 1173. Remainder: ''
+Found Pasal 102 in BUKU I .txt line 1179. Remainder: ''
+Found Pasal 103 in BUKU I .txt line 1184. Remainder: ''
+Found Pasal 104 in BUKU I .txt line 1203. Remainder: ''
+Found Pasal 105 in BUKU I .txt line 1207. Remainder: ''
+Found Pasal 106 in BUKU I .txt line 1218. Remainder: ''
+Found Pasal 107 in BUKU I .txt line 1228. Remainder: ''
+Found Pasal 108 in BUKU I .txt line 1232. Remainder: ''
+Found Pasal 109 in BUKU I .txt line 1236. Remainder: ''
+Found Pasal 110 in BUKU I .txt line 1240. Remainder: ''
+Found Pasal 111 in BUKU I .txt line 1253. Remainder: ''
+Found Pasal 112 in BUKU I .txt line 1262. Remainder: ''
+Found Pasal 113 in BUKU I .txt line 1269. Remainder: ''
+Found Pasal 114 in BUKU I .txt line 1287. Remainder: ''
+Found Pasal 115 in BUKU I .txt line 1291. Remainder: ''
+Found Pasal 116 in BUKU I .txt line 1302. Remainder: ''
+Found Pasal 117 in BUKU I .txt line 1308. Remainder: ''
+Found Pasal 118 in BUKU I .txt line 1317. Remainder: ''
+Found Pasal 119 in BUKU I .txt line 1321. Remainder: ''
+Found Pasal 120 in BUKU I .txt line 1324. Remainder: ''
+Found Pasal 121 in BUKU I .txt line 1351. Remainder: ''
+Found Pasal 122 in BUKU I .txt line 1368. Remainder: ''
+Found Pasal 123 in BUKU I .txt line 1384. Remainder: ''
+Found Pasal 124 in BUKU I .txt line 1389. Remainder: ''
+Found Pasal 125 in BUKU I .txt line 1396. Remainder: ''
+Found Pasal 126 in BUKU I .txt line 1406. Remainder: ''
+Found Pasal 127 in BUKU I .txt line 1414. Remainder: ''
+Found Pasal 128 in BUKU I .txt line 1424. Remainder: ''
+Found Pasal 129 in BUKU I .txt line 1441. Remainder: ''
+Found Pasal 130 in BUKU I .txt line 1448. Remainder: ''
+Found Pasal 131 in BUKU I .txt line 1470. Remainder: ''
+Found Pasal 132 in BUKU I .txt line 1488. Remainder: ''
+Found Pasal 133 in BUKU I .txt line 1509. Remainder: ''
+Found Pasal 134 in BUKU I .txt line 1528. Remainder: ''
+Found Pasal 135 in BUKU I .txt line 1533. Remainder: ''
+Found Pasal 136 in BUKU I .txt line 1542. Remainder: ''
+Found Pasal 137 in BUKU I .txt line 1568. Remainder: ''
+Found Pasal 138 in BUKU I .txt line 1580. Remainder: ''
+Found Pasal 139 in BUKU I .txt line 1591. Remainder: ''
+Found Pasal 140 in BUKU I .txt line 1598. Remainder: ''
+Found Pasal 141 in BUKU I .txt line 1603. Remainder: ''
+Found Pasal 142 in BUKU I .txt line 1607. Remainder: ''
+Found Pasal 143 in BUKU I .txt line 1625. Remainder: ''
+Found Pasal 144 in BUKU I .txt line 1645. Remainder: ''
+Found Pasal 146 in BUKU I .txt line 1652. Remainder: ''
+Found Pasal 147 in BUKU I .txt line 1661. Remainder: ''
+Found Pasal 148 in BUKU I .txt line 1665. Remainder: ''
+Found Pasal 149 in BUKU I .txt line 1670. Remainder: ''
+Found Pasal 150 in BUKU I .txt line 1674. Remainder: ''
+Found Pasal 151 in BUKU I .txt line 1677. Remainder: ''
+Found Pasal 152 in BUKU I .txt line 1679. Remainder: ''
+Found Pasal 153 in BUKU I .txt line 1682. Remainder: ''
+Found Pasal 154 in BUKU I .txt line 1685. Remainder: ''
+Found Pasal 155 in BUKU I .txt line 1704. Remainder: ''
+Found Pasal 156 in BUKU I .txt line 1719. Remainder: ''
+Found Pasal 157 in BUKU I .txt line 1725. Remainder: ''
+Found Pasal 158 in BUKU I .txt line 1731. Remainder: ''
+Found Pasal 159 in BUKU I .txt line 1738. Remainder: ''
+Found Pasal 160 in BUKU I .txt line 1742. Remainder: ''
+Found Pasal 161 in BUKU I .txt line 1745. Remainder: ''
+Found Pasal 162 in BUKU I .txt line 1748. Remainder: ''
+Found Pasal 163 in BUKU I .txt line 1753. Remainder: ''
+Found Pasal 164 in BUKU I .txt line 1756. Remainder: ''
+Found Pasal 165 in BUKU I .txt line 1759. Remainder: ''
+Found Pasal 166 in BUKU I .txt line 1765. Remainder: ''
+Found Pasal 167 in BUKU I .txt line 1770. Remainder: ''
+Found Pasal 168 in BUKU I .txt line 1773. Remainder: ''
+Found Pasal 169 in BUKU I .txt line 1780. Remainder: ''
+Found Pasal 170 in BUKU I .txt line 1784. Remainder: ''
+Found Pasal 171 in BUKU I .txt line 1792. Remainder: ''
+Found Pasal 172 in BUKU I .txt line 1797. Remainder: ''
+Found Pasal 173 in BUKU I .txt line 1804. Remainder: ''
+Found Pasal 174 in BUKU I .txt line 1807. Remainder: ''
+Found Pasal 175 in BUKU I .txt line 1814. Remainder: ''
+Found Pasal 176 in BUKU I .txt line 1819. Remainder: ''
+Found Pasal 177 in BUKU I .txt line 1821. Remainder: ''
+Found Pasal 178 in BUKU I .txt line 1825. Remainder: ''
+Found Pasal 179 in BUKU I .txt line 1829. Remainder: ''
+Found Pasal 180 in BUKU I .txt line 1834. Remainder: ''
+Found Pasal 181 in BUKU I .txt line 1839. Remainder: ''
+Found Pasal 182 in BUKU I .txt line 1847. Remainder: ''
+Found Pasal 183 in BUKU I .txt line 1852. Remainder: ''
+Found Pasal 184 in BUKU I .txt line 1855. Remainder: ''
+Found Pasal 185 in BUKU I .txt line 1857. Remainder: ''
+Found Pasal 186 in BUKU I .txt line 1859. Remainder: ''
+Found Pasal 187 in BUKU I .txt line 1864. Remainder: ''
+Found Pasal 188 in BUKU I .txt line 1872. Remainder: ''
+Found Pasal 189 in BUKU I .txt line 1900. Remainder: ''
+Found Pasal 190 in BUKU I .txt line 1916. Remainder: ''
+Found Pasal 191 in BUKU I .txt line 1939. Remainder: ''
+Found Pasal 192 in BUKU I .txt line 1949. Remainder: ''
+Found Pasal 193 in BUKU I .txt line 1959. Remainder: ''
+Found Pasal 194 in BUKU I .txt line 1966. Remainder: ''
+Found Pasal 195 in BUKU I .txt line 1980. Remainder: ''
+Found Pasal 196 in BUKU I .txt line 2019. Remainder: ''
+Found Pasal 197 in BUKU I .txt line 2026. Remainder: ''
+Found Pasal 198 in BUKU I .txt line 2035. Remainder: ''
+Found Pasal 199 in BUKU I .txt line 2040. Remainder: ''
+Found Pasal 200 in BUKU I .txt line 2050. Remainder: ''
+Found Pasal 201 in BUKU I .txt line 2062. Remainder: ''
+Found Pasal 202 in BUKU I .txt line 2068. Remainder: ''
+Found Pasal 203 in BUKU I .txt line 2088. Remainder: ''
+Found Pasal 204 in BUKU I .txt line 2106. Remainder: ''
+Found Pasal 205 in BUKU I .txt line 2113. Remainder: ''
+Found Pasal 206 in BUKU I .txt line 2123. Remainder: ''
+Found Pasal 207 in BUKU I .txt line 2141. Remainder: ''
+Found Pasal 208 in BUKU I .txt line 2149. Remainder: ''
+Found Pasal 209 in BUKU I .txt line 2168. Remainder: ''
+Found Pasal 210 in BUKU I .txt line 2181. Remainder: ''
+Found Pasal 211 in BUKU I .txt line 2193. Remainder: ''
+Found Pasal 212 in BUKU I .txt line 2200. Remainder: ''
+Found Pasal 213 in BUKU I .txt line 2257. Remainder: ''
+Found Pasal 214 in BUKU I .txt line 2267. Remainder: ''
+Found Pasal 215 in BUKU I .txt line 2275. Remainder: ''
+Found Pasal 216 in BUKU I .txt line 2280. Remainder: ''
+Found Pasal 217 in BUKU I .txt line 2289. Remainder: ''
+Found Pasal 218 in BUKU I .txt line 2297. Remainder: ''
+Found Pasal 219 in BUKU I .txt line 2307. Remainder: ''
+Found Pasal 220 in BUKU I .txt line 2318. Remainder: ''
+Found Pasal 221 in BUKU I .txt line 2331. Remainder: ''
+Found Pasal 222 in BUKU I .txt line 2337. Remainder: ''
+Found Pasal 223 in BUKU I .txt line 2343. Remainder: ''
+Found Pasal 224 in BUKU I .txt line 2349. Remainder: ''
+Found Pasal 225 in BUKU I .txt line 2360. Remainder: ''
+Found Pasal 226 in BUKU I .txt line 2368. Remainder: ''
+Found Pasal 227 in BUKU I .txt line 2375. Remainder: ''
+Found Pasal 228 in BUKU I .txt line 2381. Remainder: ''
+Found Pasal 229 in BUKU I .txt line 2402. Remainder: ''
+Found Pasal 230 in BUKU I .txt line 2409. Remainder: ''
+Found Pasal 231 in BUKU I .txt line 2416. Remainder: ''
+Found Pasal 232 in BUKU I .txt line 2423. Remainder: ''
+Found Pasal 233 in BUKU I .txt line 2431. Remainder: ''
+Found Pasal 234 in BUKU I .txt line 2448. Remainder: ''
+Found Pasal 235 in BUKU I .txt line 2455. Remainder: ''
+Found Pasal 236 in BUKU I .txt line 2468. Remainder: ''
+Found Pasal 237 in BUKU I .txt line 2475. Remainder: ''
+Found Pasal 238 in BUKU I .txt line 2486. Remainder: ''
+Found Pasal 239 in BUKU I .txt line 2494. Remainder: ''
+Found Pasal 240 in BUKU I .txt line 2505. Remainder: ''
+Found Pasal 241 in BUKU I .txt line 2522. Remainder: ''
+Found Pasal 242 in BUKU I .txt line 2545. Remainder: ''
+Found Pasal 243 in BUKU I .txt line 2553. Remainder: ''
+Found Pasal 244 in BUKU I .txt line 2578. Remainder: ''
+Found Pasal 245 in BUKU I .txt line 2587. Remainder: ''
+Found Pasal 246 in BUKU I .txt line 2597. Remainder: ''
+Found Pasal 247 in BUKU I .txt line 2605. Remainder: ''
+Found Pasal 248 in BUKU I .txt line 2616. Remainder: ''
+Found Pasal 249 in BUKU I .txt line 2636. Remainder: ''
+Found Pasal 250 in BUKU I .txt line 2642. Remainder: ''
+Found Pasal 251 in BUKU I .txt line 2662. Remainder: ''
+Found Pasal 252 in BUKU I .txt line 2675. Remainder: ''
+Found Pasal 253 in BUKU I .txt line 2694. Remainder: ''
+Found Pasal 254 in BUKU I .txt line 2708. Remainder: ''
+Found Pasal 255 in BUKU I .txt line 2734. Remainder: ''
+Found Pasal 256 in BUKU I .txt line 2750. Remainder: ''
+Found Pasal 257 in BUKU I .txt line 2759. Remainder: ''
+Found Pasal 258 in BUKU I .txt line 2787. Remainder: ''
+Found Pasal 259 in BUKU I .txt line 2806. Remainder: ''
+Found Pasal 260 in BUKU I .txt line 2824. Remainder: ''
+Found Pasal 261 in BUKU I .txt line 2851. Remainder: ''
+Found Pasal 262 in BUKU I .txt line 2864. Remainder: ''
+Found Pasal 263 in BUKU I .txt line 2885. Remainder: ''
+Found Pasal 264 in BUKU I .txt line 2898. Remainder: ''
+Found Pasal 265 in BUKU I .txt line 2907. Remainder: ''
+Found Pasal 266 in BUKU I .txt line 2914. Remainder: ''
+Found Pasal 267 in BUKU I .txt line 2918. Remainder: ''
+Found Pasal 268 in BUKU I .txt line 2925. Remainder: ''
+Found Pasal 269 in BUKU I .txt line 2930. Remainder: ''
+Found Pasal 2 in BUKU I .txt line 2936. Remainder: 'TO'
+Found Pasal 2 in BUKU I .txt line 2942. Remainder: 'TI'
+Found Pasal 272 in BUKU I .txt line 2951. Remainder: ''
+Found Pasal 273 in BUKU I .txt line 2970. Remainder: ''
+Found Pasal 274 in BUKU I .txt line 2978. Remainder: ''
+Found Pasal 275 in BUKU I .txt line 2992. Remainder: ''
+Found Pasal 276 in BUKU I .txt line 3003. Remainder: ''
+Found Pasal 277 in BUKU I .txt line 3010. Remainder: ''
+Found Pasal 278 in BUKU I .txt line 3023. Remainder: ''
+Found Pasal 280 in BUKU I .txt line 3076. Remainder: ''
+Found Pasal 280 in BUKU I .txt line 3114. Remainder: ''
+Found Pasal 280 in BUKU I .txt line 3152. Remainder: ''
+Found Pasal 281 in BUKU I .txt line 3171. Remainder: ''
+Found Pasal 282 in BUKU I .txt line 3180. Remainder: ''
+Found Pasal 283 in BUKU I .txt line 3203. Remainder: ''
+Found Pasal 284 in BUKU I .txt line 3209. Remainder: ''
+Found Pasal 285 in BUKU I .txt line 3216. Remainder: ''
+Found Pasal 286 in BUKU I .txt line 3227. Remainder: ''
+Found Pasal 287 in BUKU I .txt line 3240. Remainder: ''
+Found Pasal 288 in BUKU I .txt line 3252. Remainder: ''
+Found Pasal 289 in BUKU I .txt line 3263. Remainder: ''
+Found Pasal 290 in BUKU I .txt line 3284. Remainder: ''
+Found Pasal 291 in BUKU I .txt line 3290. Remainder: ''
+Found Pasal 292 in BUKU I .txt line 3303. Remainder: ''
+Found Pasal 293 in BUKU I .txt line 3317. Remainder: ''
+Found Pasal 294 in BUKU I .txt line 3341. Remainder: ''
+Found Pasal 295 in BUKU I .txt line 3348. Remainder: ''
+Found Pasal 296 in BUKU I .txt line 3375. Remainder: ''
+Found Pasal 297 in BUKU I .txt line 3382. Remainder: ''
+Found Pasal 298 in BUKU I .txt line 3390. Remainder: ''
+Found Pasal 299 in BUKU I .txt line 3396. Remainder: ''
+Found Pasal 300 in BUKU I .txt line 3409. Remainder: ''
+Found Pasal 301 in BUKU I .txt line 3420. Remainder: ''
+Found Pasal 302 in BUKU I .txt line 3439. Remainder: ''
+Found Pasal 303 in BUKU I .txt line 3454. Remainder: ''
+Found Pasal 304 in BUKU I .txt line 3471. Remainder: ''
+Found Pasal 305 in BUKU I .txt line 3477. Remainder: ''
+Found Pasal 306 in BUKU I .txt line 3491. Remainder: ''
+Found Pasal 307 in BUKU I .txt line 3502. Remainder: ''
+Found Pasal 308 in BUKU I .txt line 3521. Remainder: ''
+Found Pasal 309 in BUKU I .txt line 3533. Remainder: ''
+Found Pasal 310 in BUKU I .txt line 3537. Remainder: ''
+Found Pasal 311 in BUKU I .txt line 3543. Remainder: ''
+Found Pasal 312 in BUKU I .txt line 3553. Remainder: ''
+Found Pasal 313 in BUKU I .txt line 3561. Remainder: ''
+Found Pasal 314 in BUKU I .txt line 3569. Remainder: ''
+Found Pasal 315 in BUKU I .txt line 3574. Remainder: ''
+Found Pasal 316 in BUKU I .txt line 3585. Remainder: ''
+Found Pasal 317 in BUKU I .txt line 3595. Remainder: ''
+Found Pasal 319 in BUKU I .txt line 3608. Remainder: ''
+Found Pasal 320 in BUKU I .txt line 3626. Remainder: ''
+Found Pasal 321 in BUKU I .txt line 3646. Remainder: ''
+Found Pasal 322 in BUKU I .txt line 3660. Remainder: ''
+Found Pasal 323 in BUKU I .txt line 3676. Remainder: ''
+Found Pasal 324 in BUKU I .txt line 3687. Remainder: ''
+Found Pasal 325 in BUKU I .txt line 3702. Remainder: ''
+Found Pasal 326 in BUKU I .txt line 3720. Remainder: ''
+Found Pasal 327 in BUKU I .txt line 3741. Remainder: ''
+Found Pasal 328 in BUKU I .txt line 3752. Remainder: ''
+Found Pasal 329 in BUKU I .txt line 3768. Remainder: ''
+Found Pasal 330 in BUKU I .txt line 3779. Remainder: ''
+Found Pasal 332 in BUKU I .txt line 3796. Remainder: ''
+Found Pasal 333 in BUKU I .txt line 3819. Remainder: ''
+Found Pasal 334 in BUKU I .txt line 3864. Remainder: ''
+Found Pasal 335 in BUKU I .txt line 3893. Remainder: ''
+Found Pasal 336 in BUKU I .txt line 3904. Remainder: ''
+Found Pasal 337 in BUKU I .txt line 3918. Remainder: ''
+Found Pasal 338 in BUKU I .txt line 3936. Remainder: ''
+Found Pasal 339 in BUKU I .txt line 3957. Remainder: ''
+Found Pasal 340 in BUKU I .txt line 3987. Remainder: ''
+Found Pasal 341 in BUKU I .txt line 4001. Remainder: ''
+Found Pasal 342 in BUKU I .txt line 4008. Remainder: ''
+Found Pasal 343 in BUKU I .txt line 4021. Remainder: ''
+Found Pasal 344 in BUKU I .txt line 4036. Remainder: ''
+Found Pasal 345 in BUKU I .txt line 4045. Remainder: ''
+Found Pasal 346 in BUKU I .txt line 4054. Remainder: ''
+Found Pasal 347 in BUKU I .txt line 4070. Remainder: ''
+Found Pasal 348 in BUKU I .txt line 4076. Remainder: ''
+Found Pasal 349 in BUKU I .txt line 4084. Remainder: ''
+Found Pasal 350 in BUKU I .txt line 4095. Remainder: ''
+Found Pasal 351 in BUKU I .txt line 4101. Remainder: ''
+Found Pasal 352 in BUKU I .txt line 4108. Remainder: ''
+Found Pasal 353 in BUKU I .txt line 4116. Remainder: ''
+Found Pasal 354 in BUKU I .txt line 4123. Remainder: ''
+Found Pasal 355 in BUKU I .txt line 4129. Remainder: ''
+Found Pasal 356 in BUKU I .txt line 4135. Remainder: ''
+Found Pasal 357 in BUKU I .txt line 4144. Remainder: ''
+Found Pasal 358 in BUKU I .txt line 4150. Remainder: ''
+Found Pasal 359 in BUKU I .txt line 4170. Remainder: ''
+Found Pasal 360 in BUKU I .txt line 4187. Remainder: ''
+Found Pasal 361 in BUKU I .txt line 4197. Remainder: ''
+Found Pasal 362 in BUKU I .txt line 4205. Remainder: ''
+Found Pasal 363 in BUKU I .txt line 4212. Remainder: ''
+Found Pasal 364 in BUKU I .txt line 4219. Remainder: ''
+Found Pasal 365 in BUKU I .txt line 4238. Remainder: ''
+Found Pasal 366 in BUKU I .txt line 4249. Remainder: ''
+Found Pasal 367 in BUKU I .txt line 4258. Remainder: ''
+Found Pasal 366 in BUKU I .txt line 4261. Remainder: 'Masuk ke tempat terjadinya Tindak Pidana atau'
+Found Pasal 368 in BUKU I .txt line 4270. Remainder: ''
+Found Pasal 369 in BUKU I .txt line 4279. Remainder: ''
+Found Pasal 370 in BUKU I .txt line 4289. Remainder: ''
+Found Pasal 371 in BUKU I .txt line 4296. Remainder: ''
+Found Pasal 372 in BUKU I .txt line 4304. Remainder: ''
+Found Pasal 373 in BUKU I .txt line 4321. Remainder: ''
+Found Pasal 374 in BUKU I .txt line 4341. Remainder: ''
+Found Pasal 375 in BUKU I .txt line 4348. Remainder: ''
+Found Pasal 376 in BUKU I .txt line 4366. Remainder: ''
+Found Pasal 377 in BUKU I .txt line 4372. Remainder: ''
+Found Pasal 378 in BUKU I .txt line 4385. Remainder: ''
+Found Pasal 379 in BUKU I .txt line 4392. Remainder: ''
+Found Pasal 380 in BUKU I .txt line 4400. Remainder: ''
+Found Pasal 381 in BUKU I .txt line 4418. Remainder: ''
+Found Pasal 382 in BUKU I .txt line 4432. Remainder: ''
+Found Pasal 383 in BUKU I .txt line 4444. Remainder: ''
+Found Pasal 384 in BUKU I .txt line 4467. Remainder: ''
+Found Pasal 385 in BUKU I .txt line 4490. Remainder: ''
+Found Pasal 386 in BUKU I .txt line 4516. Remainder: ''
+Found Pasal 387 in BUKU I .txt line 4531. Remainder: ''
+Found Pasal 388 in BUKU I .txt line 4546. Remainder: ''
+Found Pasal 389 in BUKU I .txt line 4579. Remainder: ''
+Found Pasal 390 in BUKU I .txt line 4592. Remainder: ''
+Found Pasal 391 in BUKU I .txt line 4606. Remainder: ''
+Found Pasal 392 in BUKU I .txt line 4622. Remainder: ''
+Found Pasal 393 in BUKU I .txt line 4647. Remainder: ''
+Found Pasal 395 in BUKU I .txt line 4669. Remainder: ''
+Found Pasal 396 in BUKU I .txt line 4683. Remainder: ''
+Found Pasal 397 in BUKU I .txt line 4696. Remainder: ''
+Found Pasal 398 in BUKU I .txt line 4709. Remainder: ''
+Found Pasal 399 in BUKU I .txt line 4729. Remainder: ''
+Found Pasal 400 in BUKU I .txt line 4743. Remainder: ''
+Found Pasal 401 in BUKU I .txt line 4757. Remainder: ''
+Found Pasal 402 in BUKU I .txt line 4762. Remainder: ''
+Found Pasal 403 in BUKU I .txt line 4780. Remainder: ''
+Found Pasal 404 in BUKU I .txt line 4787. Remainder: ''
+Found Pasal 405 in BUKU I .txt line 4793. Remainder: ''
+Found Pasal 406 in BUKU I .txt line 4802. Remainder: ''
+Found Pasal 407 in BUKU I .txt line 4811. Remainder: ''
+Found Pasal 408 in BUKU I .txt line 4827. Remainder: ''
+Found Pasal 409 in BUKU I .txt line 4833. Remainder: ''
+Found Pasal 410 in BUKU I .txt line 4841. Remainder: ''
+Found Pasal 411 in BUKU I .txt line 4856. Remainder: ''
+Found Pasal 412 in BUKU I .txt line 4872. Remainder: ''
+Found Pasal 413 in BUKU I .txt line 4889. Remainder: ''
+Found Pasal 414 in BUKU I .txt line 4894. Remainder: ''
+Found Pasal 415 in BUKU I .txt line 4911. Remainder: ''
+Found Pasal 417 in BUKU I .txt line 4928. Remainder: ''
+Found Pasal 418 in BUKU I .txt line 4936. Remainder: ''
+Found Pasal 419 in BUKU I .txt line 4956. Remainder: ''
+Found Pasal 420 in BUKU I .txt line 4966. Remainder: ''
+Found Pasal 421 in BUKU I .txt line 4970. Remainder: ''
+Found Pasal 422 in BUKU I .txt line 4975. Remainder: ''
+Found Pasal 424 in BUKU I .txt line 4991. Remainder: ''
+Found Pasal 425 in BUKU I .txt line 5020. Remainder: ''
+Found Pasal 427 in BUKU I .txt line 5052. Remainder: ''
+Found Pasal 428 in BUKU I .txt line 5059. Remainder: ''
+Found Pasal 429 in BUKU I .txt line 5080. Remainder: ''
+Found Pasal 430 in BUKU I .txt line 5097. Remainder: ''
+Found Pasal 431 in BUKU I .txt line 5105. Remainder: ''
+Found Pasal 432 in BUKU I .txt line 5110. Remainder: ''
+Found Pasal 433 in BUKU I .txt line 5121. Remainder: ''
+Found Pasal 434 in BUKU I .txt line 5137. Remainder: ''
+Found Pasal 435 in BUKU I .txt line 5160. Remainder: ''
+Found Pasal 436 in BUKU I .txt line 5176. Remainder: ''
+Found Pasal 437 in BUKU I .txt line 5187. Remainder: ''
+Found Pasal 438 in BUKU I .txt line 5203. Remainder: ''
+Found Pasal 439 in BUKU I .txt line 5212. Remainder: ''
+Found Pasal 440 in BUKU I .txt line 5235. Remainder: ''
+Found Pasal 441 in BUKU I .txt line 5240. Remainder: ''
+Found Pasal 188 in BUKU II.txt line 4. Remainder: ''
+Found Pasal 189 in BUKU II.txt line 32. Remainder: ''
+Found Pasal 190 in BUKU II.txt line 48. Remainder: ''
+Found Pasal 191 in BUKU II.txt line 71. Remainder: ''
+Found Pasal 192 in BUKU II.txt line 81. Remainder: ''
+Found Pasal 193 in BUKU II.txt line 91. Remainder: ''
+Found Pasal 194 in BUKU II.txt line 98. Remainder: ''
+Found Pasal 195 in BUKU II.txt line 112. Remainder: ''
+Found Pasal 196 in BUKU II.txt line 151. Remainder: ''
+Found Pasal 197 in BUKU II.txt line 158. Remainder: ''
+Found Pasal 198 in BUKU II.txt line 167. Remainder: ''
+Found Pasal 199 in BUKU II.txt line 172. Remainder: ''
+Found Pasal 200 in BUKU II.txt line 182. Remainder: ''
+Found Pasal 201 in BUKU II.txt line 194. Remainder: ''
+Found Pasal 202 in BUKU II.txt line 200. Remainder: ''
+Found Pasal 203 in BUKU II.txt line 220. Remainder: ''
+Found Pasal 204 in BUKU II.txt line 238. Remainder: ''
+Found Pasal 205 in BUKU II.txt line 245. Remainder: ''
+Found Pasal 206 in BUKU II.txt line 255. Remainder: ''
+Found Pasal 207 in BUKU II.txt line 273. Remainder: ''
+Found Pasal 208 in BUKU II.txt line 281. Remainder: ''
+Found Pasal 209 in BUKU II.txt line 300. Remainder: ''
+Found Pasal 210 in BUKU II.txt line 313. Remainder: ''
+Found Pasal 211 in BUKU II.txt line 325. Remainder: ''
+Found Pasal 212 in BUKU II.txt line 332. Remainder: ''
+Found Pasal 213 in BUKU II.txt line 389. Remainder: ''
+Found Pasal 214 in BUKU II.txt line 399. Remainder: ''
+Found Pasal 215 in BUKU II.txt line 407. Remainder: ''
+Found Pasal 216 in BUKU II.txt line 412. Remainder: ''
+Found Pasal 217 in BUKU II.txt line 421. Remainder: ''
+Found Pasal 218 in BUKU II.txt line 429. Remainder: ''
+Found Pasal 219 in BUKU II.txt line 439. Remainder: ''
+Found Pasal 220 in BUKU II.txt line 450. Remainder: ''
+Found Pasal 221 in BUKU II.txt line 463. Remainder: ''
+Found Pasal 222 in BUKU II.txt line 469. Remainder: ''
+Found Pasal 223 in BUKU II.txt line 475. Remainder: ''
+Found Pasal 224 in BUKU II.txt line 481. Remainder: ''
+Found Pasal 225 in BUKU II.txt line 492. Remainder: ''
+Found Pasal 226 in BUKU II.txt line 500. Remainder: ''
+Found Pasal 227 in BUKU II.txt line 507. Remainder: ''
+Found Pasal 228 in BUKU II.txt line 513. Remainder: ''
+Found Pasal 229 in BUKU II.txt line 534. Remainder: ''
+Found Pasal 230 in BUKU II.txt line 541. Remainder: ''
+Found Pasal 231 in BUKU II.txt line 548. Remainder: ''
+Found Pasal 232 in BUKU II.txt line 555. Remainder: ''
+Found Pasal 233 in BUKU II.txt line 563. Remainder: ''
+Found Pasal 234 in BUKU II.txt line 580. Remainder: ''
+Found Pasal 235 in BUKU II.txt line 587. Remainder: ''
+Found Pasal 236 in BUKU II.txt line 600. Remainder: ''
+Found Pasal 237 in BUKU II.txt line 607. Remainder: ''
+Found Pasal 238 in BUKU II.txt line 618. Remainder: ''
+Found Pasal 239 in BUKU II.txt line 626. Remainder: ''
+Found Pasal 240 in BUKU II.txt line 637. Remainder: ''
+Found Pasal 241 in BUKU II.txt line 654. Remainder: ''
+Found Pasal 242 in BUKU II.txt line 677. Remainder: ''
+Found Pasal 243 in BUKU II.txt line 685. Remainder: ''
+Found Pasal 244 in BUKU II.txt line 710. Remainder: ''
+Found Pasal 245 in BUKU II.txt line 719. Remainder: ''
+Found Pasal 246 in BUKU II.txt line 729. Remainder: ''
+Found Pasal 247 in BUKU II.txt line 737. Remainder: ''
+Found Pasal 248 in BUKU II.txt line 748. Remainder: ''
+Found Pasal 249 in BUKU II.txt line 768. Remainder: ''
+Found Pasal 250 in BUKU II.txt line 774. Remainder: ''
+Found Pasal 251 in BUKU II.txt line 794. Remainder: ''
+Found Pasal 252 in BUKU II.txt line 807. Remainder: ''
+Found Pasal 253 in BUKU II.txt line 826. Remainder: ''
+Found Pasal 254 in BUKU II.txt line 840. Remainder: ''
+Found Pasal 255 in BUKU II.txt line 866. Remainder: ''
+Found Pasal 256 in BUKU II.txt line 882. Remainder: ''
+Found Pasal 257 in BUKU II.txt line 891. Remainder: ''
+Found Pasal 258 in BUKU II.txt line 919. Remainder: ''
+Found Pasal 259 in BUKU II.txt line 938. Remainder: ''
+Found Pasal 260 in BUKU II.txt line 956. Remainder: ''
+Found Pasal 261 in BUKU II.txt line 983. Remainder: ''
+Found Pasal 262 in BUKU II.txt line 996. Remainder: ''
+Found Pasal 263 in BUKU II.txt line 1018. Remainder: ''
+Found Pasal 264 in BUKU II.txt line 1023. Remainder: ''
+Found Pasal 265 in BUKU II.txt line 1026. Remainder: ''
+Found Pasal 266 in BUKU II.txt line 1032. Remainder: ''
+Found Pasal 267 in BUKU II.txt line 1036. Remainder: ''
+Found Pasal 268 in BUKU II.txt line 1042. Remainder: ''
+Found Pasal 269 in BUKU II.txt line 1045. Remainder: ''
+Found Pasal 270 in BUKU II.txt line 1049. Remainder: ''
+Found Pasal 271 in BUKU II.txt line 1053. Remainder: ''
+Found Pasal 272 in BUKU II.txt line 1058. Remainder: ''
+Found Pasal 273 in BUKU II.txt line 1063. Remainder: ''
+Found Pasal 274 in BUKU II.txt line 1067. Remainder: ''
+Found Pasal 275 in BUKU II.txt line 1081. Remainder: ''
+Found Pasal 276 in BUKU II.txt line 1092. Remainder: ''
+Found Pasal 277 in BUKU II.txt line 1100. Remainder: ''
+Found Pasal 278 in BUKU II.txt line 1110. Remainder: ''
+Found Pasal 279 in BUKU II.txt line 1151. Remainder: ''
+Found Pasal 280 in BUKU II.txt line 1163. Remainder: ''
+Found Pasal 279 in BUKU II.txt line 1189. Remainder: ''
+Found Pasal 280 in BUKU II.txt line 1201. Remainder: ''
+Found Pasal 279 in BUKU II.txt line 1229. Remainder: ''
+Found Pasal 280 in BUKU II.txt line 1240. Remainder: ''
+Found Pasal 281 in BUKU II.txt line 1259. Remainder: ''
+Found Pasal 282 in BUKU II.txt line 1269. Remainder: ''
+Found Pasal 283 in BUKU II.txt line 1293. Remainder: ''
+Found Pasal 284 in BUKU II.txt line 1300. Remainder: ''
+Found Pasal 285 in BUKU II.txt line 1308. Remainder: ''
+Found Pasal 286 in BUKU II.txt line 1320. Remainder: ''
+Found Pasal 287 in BUKU II.txt line 1334. Remainder: ''
+Found Pasal 288 in BUKU II.txt line 1347. Remainder: ''
+Found Pasal 289 in BUKU II.txt line 1359. Remainder: ''
+Found Pasal 290 in BUKU II.txt line 1381. Remainder: ''
+Found Pasal 291 in BUKU II.txt line 1387. Remainder: ''
+Found Pasal 292 in BUKU II.txt line 1400. Remainder: ''
+Found Pasal 293 in BUKU II.txt line 1414. Remainder: ''
+Found Pasal 294 in BUKU II.txt line 1438. Remainder: ''
+Found Pasal 295 in BUKU II.txt line 1445. Remainder: ''
+Found Pasal 296 in BUKU II.txt line 1472. Remainder: ''
+Found Pasal 297 in BUKU II.txt line 1479. Remainder: ''
+Found Pasal 298 in BUKU II.txt line 1487. Remainder: ''
+Found Pasal 299 in BUKU II.txt line 1493. Remainder: ''
+Found Pasal 300 in BUKU II.txt line 1506. Remainder: ''
+Found Pasal 301 in BUKU II.txt line 1517. Remainder: ''
+Found Pasal 302 in BUKU II.txt line 1536. Remainder: ''
+Found Pasal 303 in BUKU II.txt line 1551. Remainder: ''
+Found Pasal 304 in BUKU II.txt line 1568. Remainder: ''
+Found Pasal 305 in BUKU II.txt line 1574. Remainder: ''
+Found Pasal 306 in BUKU II.txt line 1589. Remainder: ''
+Found Pasal 307 in BUKU II.txt line 1601. Remainder: ''
+Found Pasal 308 in BUKU II.txt line 1619. Remainder: ''
+Found Pasal 309 in BUKU II.txt line 1632. Remainder: ''
+Found Pasal 310 in BUKU II.txt line 1637. Remainder: ''
+Found Pasal 311 in BUKU II.txt line 1644. Remainder: ''
+Found Pasal 312 in BUKU II.txt line 1654. Remainder: ''
+Found Pasal 313 in BUKU II.txt line 1662. Remainder: ''
+Found Pasal 314 in BUKU II.txt line 1670. Remainder: ''
+Found Pasal 315 in BUKU II.txt line 1675. Remainder: ''
+Found Pasal 316 in BUKU II.txt line 1687. Remainder: ''
+Found Pasal 317 in BUKU II.txt line 1698. Remainder: ''
+Found Pasal 318 in BUKU II.txt line 1707. Remainder: ''
+Found Pasal 319 in BUKU II.txt line 1713. Remainder: ''
+Found Pasal 320 in BUKU II.txt line 1731. Remainder: ''
+Found Pasal 321 in BUKU II.txt line 1751. Remainder: ''
+Found Pasal 322 in BUKU II.txt line 1765. Remainder: ''
+Found Pasal 323 in BUKU II.txt line 1781. Remainder: ''
+Found Pasal 324 in BUKU II.txt line 1792. Remainder: ''
+Found Pasal 325 in BUKU II.txt line 1807. Remainder: ''
+Found Pasal 326 in BUKU II.txt line 1826. Remainder: ''
+Found Pasal 327 in BUKU II.txt line 1847. Remainder: ''
+Found Pasal 328 in BUKU II.txt line 1858. Remainder: ''
+Found Pasal 329 in BUKU II.txt line 1873. Remainder: ''
+Found Pasal 330 in BUKU II.txt line 1885. Remainder: ''
+Found Pasal 331 in BUKU II.txt line 1897. Remainder: ''
+Found Pasal 332 in BUKU II.txt line 1903. Remainder: ''
+Found Pasal 333 in BUKU II.txt line 1926. Remainder: ''
+Found Pasal 334 in BUKU II.txt line 1971. Remainder: ''
+Found Pasal 335 in BUKU II.txt line 2000. Remainder: ''
+Found Pasal 336 in BUKU II.txt line 2011. Remainder: ''
+Found Pasal 337 in BUKU II.txt line 2025. Remainder: ''
+Found Pasal 338 in BUKU II.txt line 2043. Remainder: ''
+Found Pasal 339 in BUKU II.txt line 2063. Remainder: ''
+Found Pasal 340 in BUKU II.txt line 2093. Remainder: ''
+Found Pasal 341 in BUKU II.txt line 2107. Remainder: ''
+Found Pasal 342 in BUKU II.txt line 2114. Remainder: ''
+Found Pasal 343 in BUKU II.txt line 2127. Remainder: ''
+Found Pasal 344 in BUKU II.txt line 2142. Remainder: ''
+Found Pasal 345 in BUKU II.txt line 2151. Remainder: ''
+Found Pasal 346 in BUKU II.txt line 2160. Remainder: ''
+Found Pasal 347 in BUKU II.txt line 2176. Remainder: ''
+Found Pasal 348 in BUKU II.txt line 2182. Remainder: ''
+Found Pasal 349 in BUKU II.txt line 2190. Remainder: ''
+Found Pasal 350 in BUKU II.txt line 2201. Remainder: ''
+Found Pasal 351 in BUKU II.txt line 2207. Remainder: ''
+Found Pasal 352 in BUKU II.txt line 2214. Remainder: ''
+Found Pasal 353 in BUKU II.txt line 2222. Remainder: ''
+Found Pasal 354 in BUKU II.txt line 2230. Remainder: ''
+Found Pasal 355 in BUKU II.txt line 2237. Remainder: ''
+Found Pasal 356 in BUKU II.txt line 2243. Remainder: ''
+Found Pasal 357 in BUKU II.txt line 2252. Remainder: ''
+Found Pasal 358 in BUKU II.txt line 2258. Remainder: ''
+Found Pasal 359 in BUKU II.txt line 2278. Remainder: ''
+Found Pasal 360 in BUKU II.txt line 2295. Remainder: ''
+Found Pasal 361 in BUKU II.txt line 2305. Remainder: ''
+Found Pasal 362 in BUKU II.txt line 2313. Remainder: ''
+Found Pasal 363 in BUKU II.txt line 2320. Remainder: ''
+Found Pasal 364 in BUKU II.txt line 2327. Remainder: ''
+Found Pasal 365 in BUKU II.txt line 2346. Remainder: ''
+Found Pasal 366 in BUKU II.txt line 2357. Remainder: ''
+Found Pasal 367 in BUKU II.txt line 2366. Remainder: ''
+Found Pasal 366 in BUKU II.txt line 2369. Remainder: 'Masuk ke tempat terjadinya Tindak Pidana atau'
+Found Pasal 368 in BUKU II.txt line 2378. Remainder: ''
+Found Pasal 369 in BUKU II.txt line 2387. Remainder: ''
+Found Pasal 370 in BUKU II.txt line 2397. Remainder: ''
+Found Pasal 371 in BUKU II.txt line 2404. Remainder: ''
+Found Pasal 372 in BUKU II.txt line 2412. Remainder: ''
+Found Pasal 373 in BUKU II.txt line 2429. Remainder: ''
+Found Pasal 374 in BUKU II.txt line 2448. Remainder: ''
+Found Pasal 375 in BUKU II.txt line 2456. Remainder: ''
+Found Pasal 376 in BUKU II.txt line 2475. Remainder: ''
+Found Pasal 377 in BUKU II.txt line 2482. Remainder: ''
+Found Pasal 378 in BUKU II.txt line 2495. Remainder: ''
+Found Pasal 379 in BUKU II.txt line 2502. Remainder: ''
+Found Pasal 380 in BUKU II.txt line 2510. Remainder: ''
+Found Pasal 381 in BUKU II.txt line 2528. Remainder: ''
+Found Pasal 382 in BUKU II.txt line 2542. Remainder: ''
+Found Pasal 383 in BUKU II.txt line 2554. Remainder: ''
+Found Pasal 384 in BUKU II.txt line 2577. Remainder: ''
+Found Pasal 385 in BUKU II.txt line 2600. Remainder: ''
+Found Pasal 386 in BUKU II.txt line 2626. Remainder: ''
+Found Pasal 387 in BUKU II.txt line 2641. Remainder: ''
+Found Pasal 388 in BUKU II.txt line 2656. Remainder: ''
+Found Pasal 389 in BUKU II.txt line 2689. Remainder: ''
+Found Pasal 390 in BUKU II.txt line 2703. Remainder: ''
+Found Pasal 391 in BUKU II.txt line 2717. Remainder: ''
+Found Pasal 392 in BUKU II.txt line 2733. Remainder: ''
+Found Pasal 393 in BUKU II.txt line 2758. Remainder: ''
+Found Pasal 395 in BUKU II.txt line 2781. Remainder: ''
+Found Pasal 396 in BUKU II.txt line 2795. Remainder: ''
+Found Pasal 397 in BUKU II.txt line 2808. Remainder: ''
+Found Pasal 398 in BUKU II.txt line 2821. Remainder: ''
+Found Pasal 399 in BUKU II.txt line 2841. Remainder: ''
+Found Pasal 400 in BUKU II.txt line 2855. Remainder: ''
+Found Pasal 401 in BUKU II.txt line 2869. Remainder: ''
+Found Pasal 402 in BUKU II.txt line 2874. Remainder: ''
+Found Pasal 403 in BUKU II.txt line 2892. Remainder: ''
+Found Pasal 404 in BUKU II.txt line 2899. Remainder: ''
+Found Pasal 405 in BUKU II.txt line 2905. Remainder: ''
+Found Pasal 406 in BUKU II.txt line 2914. Remainder: ''
+Found Pasal 407 in BUKU II.txt line 2923. Remainder: ''
+Found Pasal 408 in BUKU II.txt line 2939. Remainder: ''
+Found Pasal 409 in BUKU II.txt line 2945. Remainder: ''
+Found Pasal 410 in BUKU II.txt line 2953. Remainder: ''
+Found Pasal 411 in BUKU II.txt line 2968. Remainder: ''
+Found Pasal 412 in BUKU II.txt line 2984. Remainder: ''
+Found Pasal 413 in BUKU II.txt line 3001. Remainder: ''
+Found Pasal 414 in BUKU II.txt line 3006. Remainder: ''
+Found Pasal 415 in BUKU II.txt line 3023. Remainder: ''
+Found Pasal 417 in BUKU II.txt line 3040. Remainder: ''
+Found Pasal 418 in BUKU II.txt line 3048. Remainder: ''
+Found Pasal 419 in BUKU II.txt line 3068. Remainder: ''
+Found Pasal 420 in BUKU II.txt line 3078. Remainder: ''
+Found Pasal 421 in BUKU II.txt line 3082. Remainder: ''
+Found Pasal 422 in BUKU II.txt line 3087. Remainder: ''
+Found Pasal 424 in BUKU II.txt line 3103. Remainder: ''
+Found Pasal 425 in BUKU II.txt line 3132. Remainder: ''
+Found Pasal 427 in BUKU II.txt line 3164. Remainder: ''
+Found Pasal 428 in BUKU II.txt line 3171. Remainder: ''
+Found Pasal 429 in BUKU II.txt line 3192. Remainder: ''
+Found Pasal 430 in BUKU II.txt line 3209. Remainder: ''
+Found Pasal 431 in BUKU II.txt line 3217. Remainder: ''
+Found Pasal 432 in BUKU II.txt line 3222. Remainder: ''
+Found Pasal 433 in BUKU II.txt line 3233. Remainder: ''
+Found Pasal 434 in BUKU II.txt line 3249. Remainder: ''
+Found Pasal 435 in BUKU II.txt line 3268. Remainder: ''
+Found Pasal 436 in BUKU II.txt line 3284. Remainder: ''
+Found Pasal 437 in BUKU II.txt line 3295. Remainder: ''
+Found Pasal 438 in BUKU II.txt line 3311. Remainder: ''
+Found Pasal 439 in BUKU II.txt line 3320. Remainder: ''
+Found Pasal 440 in BUKU II.txt line 3343. Remainder: ''
+Found Pasal 441 in BUKU II.txt line 3345. Remainder: ''
+Found Pasal 442 in BUKU II.txt line 3353. Remainder: ''
+Found Pasal 443 in BUKU II.txt line 3360. Remainder: ''
+Found Pasal 444 in BUKU II.txt line 3370. Remainder: ''
+Found Pasal 445 in BUKU II.txt line 3379. Remainder: ''
+Found Pasal 446 in BUKU II.txt line 3384. Remainder: ''
+Found Pasal 447 in BUKU II.txt line 3400. Remainder: ''
+Found Pasal 448 in BUKU II.txt line 3413. Remainder: ''
+Found Pasal 449 in BUKU II.txt line 3428. Remainder: ''
+Found Pasal 450 in BUKU II.txt line 3446. Remainder: ''
+Found Pasal 451 in BUKU II.txt line 3455. Remainder: ''
+Found Pasal 452 in BUKU II.txt line 3467. Remainder: ''
+Found Pasal 453 in BUKU II.txt line 3482. Remainder: ''
+Found Pasal 454 in BUKU II.txt line 3497. Remainder: ''
+Found Pasal 455 in BUKU II.txt line 3524. Remainder: ''
+Found Pasal 456 in BUKU II.txt line 3545. Remainder: ''
+Found Pasal 457 in BUKU II.txt line 3551. Remainder: ''
+Found Pasal 458 in BUKU II.txt line 3574. Remainder: ''
+Found Pasal 459 in BUKU II.txt line 3590. Remainder: ''
+Found Pasal 460 in BUKU II.txt line 3595. Remainder: ''
+Found Pasal 461 in BUKU II.txt line 3610. Remainder: ''
+Found Pasal 462 in BUKU II.txt line 3615. Remainder: ''
+Found Pasal 463 in BUKU II.txt line 3622. Remainder: ''
+Found Pasal 464 in BUKU II.txt line 3631. Remainder: ''
+Found Pasal 465 in BUKU II.txt line 3648. Remainder: ''
+Found Pasal 466 in BUKU II.txt line 3668. Remainder: ''
+Found Pasal 467 in BUKU II.txt line 3684. Remainder: ''
+Found Pasal 468 in BUKU II.txt line 3694. Remainder: ''
+Found Pasal 469 in BUKU II.txt line 3701. Remainder: ''
+Found Pasal 470 in BUKU II.txt line 3708. Remainder: ''
+Found Pasal 471 in BUKU II.txt line 3717. Remainder: ''
+Found Pasal 472 in BUKU II.txt line 3733. Remainder: ''
+Found Pasal 473 in BUKU II.txt line 3747. Remainder: ''
+Found Pasal 474 in BUKU II.txt line 3820. Remainder: ''
+Found Pasal 475 in BUKU II.txt line 3835. Remainder: ''
+Found Pasal 476 in BUKU II.txt line 3847. Remainder: ''
+Found Pasal 477 in BUKU II.txt line 3853. Remainder: ''
+Found Pasal 478 in BUKU II.txt line 3882. Remainder: ''
+Found Pasal 479 in BUKU II.txt line 3890. Remainder: ''
+Found Pasal 480 in BUKU II.txt line 3925. Remainder: ''
+Found Pasal 481 in BUKU II.txt line 3930. Remainder: ''
+Found Pasal 482 in BUKU II.txt line 3949. Remainder: ''
+Found Pasal 483 in BUKU II.txt line 3963. Remainder: ''
+Found Pasal 484 in BUKU II.txt line 3979. Remainder: ''
+Found Pasal 485 in BUKU II.txt line 3983. Remainder: ''
+Found Pasal 486 in BUKU II.txt line 3990. Remainder: ''
+Found Pasal 487 in BUKU II.txt line 3997. Remainder: ''
+Found Pasal 488 in BUKU II.txt line 4004. Remainder: ''
+Found Pasal 489 in BUKU II.txt line 4012. Remainder: ''
+Found Pasal 490 in BUKU II.txt line 4021. Remainder: ''
+Found Pasal 491 in BUKU II.txt line 4025. Remainder: ''
+Found Pasal 492 in BUKU II.txt line 4037. Remainder: ''
+Found Pasal 493 in BUKU II.txt line 4047. Remainder: ''
+Found Pasal 494 in BUKU II.txt line 4055. Remainder: ''
+Found Pasal 495 in BUKU II.txt line 4065. Remainder: ''
+Found Pasal 496 in BUKU II.txt line 4072. Remainder: ''
+Found Pasal 497 in BUKU II.txt line 4078. Remainder: ''
+Found Pasal 498 in BUKU II.txt line 4085. Remainder: ''
+Found Pasal 499 in BUKU II.txt line 4094. Remainder: ''
+Found Pasal 500 in BUKU II.txt line 4119. Remainder: ''
+Found Pasal 501 in BUKU II.txt line 4129. Remainder: ''
+Found Pasal 502 in BUKU II.txt line 4135. Remainder: ''
+Found Pasal 503 in BUKU II.txt line 4172. Remainder: ''
+Found Pasal 504 in BUKU II.txt line 4186. Remainder: ''
+Found Pasal 505 in BUKU II.txt line 4194. Remainder: ''
+Found Pasal 506 in BUKU II.txt line 4202. Remainder: ''
+Found Pasal 507 in BUKU II.txt line 4209. Remainder: ''
+Found Pasal 508 in BUKU II.txt line 4219. Remainder: ''
+Found Pasal 509 in BUKU II.txt line 4224. Remainder: ''
+Found Pasal 510 in BUKU II.txt line 4244. Remainder: ''
+Found Pasal 511 in BUKU II.txt line 4253. Remainder: ''
+Found Pasal 512 in BUKU II.txt line 4270. Remainder: ''
+Found Pasal 513 in BUKU II.txt line 4290. Remainder: ''
+Found Pasal 514 in BUKU II.txt line 4293. Remainder: ''
+Found Pasal 515 in BUKU II.txt line 4314. Remainder: ''
+Found Pasal 516 in BUKU II.txt line 4331. Remainder: ''
+Found Pasal 517 in BUKU II.txt line 4351. Remainder: ''
+Found Pasal 518 in BUKU II.txt line 4359. Remainder: ''
+Found Pasal 519 in BUKU II.txt line 4369. Remainder: ''
+Found Pasal 520 in BUKU II.txt line 4383. Remainder: ''
+Found Pasal 521 in BUKU II.txt line 4410. Remainder: ''
+Found Pasal 522 in BUKU II.txt line 4425. Remainder: ''
+Found Pasal 523 in BUKU II.txt line 4431. Remainder: ''
+Found Pasal 524 in BUKU II.txt line 4437. Remainder: ''
+Found Pasal 525 in BUKU II.txt line 4442. Remainder: ''
+Found Pasal 526 in BUKU II.txt line 4449. Remainder: ''
+Found Pasal 527 in BUKU II.txt line 4457. Remainder: ''
+Found Pasal 528 in BUKU II.txt line 4463. Remainder: ''
+Found Pasal 529 in BUKU II.txt line 4478. Remainder: ''
+Found Pasal 530 in BUKU II.txt line 4482. Remainder: ''
+Found Pasal 531 in BUKU II.txt line 4497. Remainder: ''
+Found Pasal 532 in BUKU II.txt line 4509. Remainder: ''
+Found Pasal 533 in BUKU II.txt line 4527. Remainder: ''
+Found Pasal 534 in BUKU II.txt line 4539. Remainder: ''
+Found Pasal 535 in BUKU II.txt line 4551. Remainder: ''
+Found Pasal 536 in BUKU II.txt line 4566. Remainder: ''
+Found Pasal 537 in BUKU II.txt line 4581. Remainder: ''
+Found Pasal 538 in BUKU II.txt line 4594. Remainder: ''
+Found Pasal 539 in BUKU II.txt line 4602. Remainder: ''
+Found Pasal 540 in BUKU II.txt line 4614. Remainder: ''
+Found Pasal 541 in BUKU II.txt line 4620. Remainder: ''
+Found Pasal 542 in BUKU II.txt line 4629. Remainder: ''
+Found Pasal 543 in BUKU II.txt line 4639. Remainder: ''
+Found Pasal 544 in BUKU II.txt line 4653. Remainder: ''
+Found Pasal 545 in BUKU II.txt line 4662. Remainder: ''
+Found Pasal 546 in BUKU II.txt line 4675. Remainder: ''
+Found Pasal 547 in BUKU II.txt line 4684. Remainder: ''
+Found Pasal 548 in BUKU II.txt line 4688. Remainder: ''
+Found Pasal 549 in BUKU II.txt line 4696. Remainder: ''
+Found Pasal 550 in BUKU II.txt line 4702. Remainder: ''
+Found Pasal 551 in BUKU II.txt line 4709. Remainder: ''
+Found Pasal 552 in BUKU II.txt line 4725. Remainder: ''
+Found Pasal 553 in BUKU II.txt line 4731. Remainder: ''
+Found Pasal 554 in BUKU II.txt line 4753. Remainder: ''
+Found Pasal 555 in BUKU II.txt line 4768. Remainder: ''
+Found Pasal 556 in BUKU II.txt line 4772. Remainder: ''
+Found Pasal 557 in BUKU II.txt line 4789. Remainder: ''
+Found Pasal 558 in BUKU II.txt line 4796. Remainder: ''
+Found Pasal 559 in BUKU II.txt line 4809. Remainder: ''
+Found Pasal 560 in BUKU II.txt line 4815. Remainder: ''
+Found Pasal 561 in BUKU II.txt line 4824. Remainder: ''
+Found Pasal 562 in BUKU II.txt line 4831. Remainder: ''
+Found Pasal 563 in BUKU II.txt line 4847. Remainder: ''
+Found Pasal 564 in BUKU II.txt line 4853. Remainder: ''
+Found Pasal 565 in BUKU II.txt line 4859. Remainder: ''
+Found Pasal 566 in BUKU II.txt line 4864. Remainder: ''
+Found Pasal 567 in BUKU II.txt line 4872. Remainder: ''
+Found Pasal 568 in BUKU II.txt line 4878. Remainder: ''
+Found Pasal 569 in BUKU II.txt line 4886. Remainder: ''
+Found Pasal 570 in BUKU II.txt line 4903. Remainder: ''
+Found Pasal 571 in BUKU II.txt line 4911. Remainder: ''
+Found Pasal 572 in BUKU II.txt line 4917. Remainder: ''
+Found Pasal 573 in BUKU II.txt line 4927. Remainder: ''
+Found Pasal 574 in BUKU II.txt line 4936. Remainder: ''
+Found Pasal 575 in BUKU II.txt line 4951. Remainder: ''
+Found Pasal 576 in BUKU II.txt line 4965. Remainder: ''
+Found Pasal 577 in BUKU II.txt line 4978. Remainder: ''
+Found Pasal 578 in BUKU II.txt line 4996. Remainder: ''
+Found Pasal 579 in BUKU II.txt line 5017. Remainder: ''
+Found Pasal 580 in BUKU II.txt line 5030. Remainder: ''
+Found Pasal 581 in BUKU II.txt line 5051. Remainder: ''
+Found Pasal 582 in BUKU II.txt line 5057. Remainder: ''
+Found Pasal 583 in BUKU II.txt line 5063. Remainder: ''
+Found Pasal 584 in BUKU II.txt line 5072. Remainder: ''
+Found Pasal 585 in BUKU II.txt line 5084. Remainder: ''
+Found Pasal 586 in BUKU II.txt line 5089. Remainder: ''
+Found Pasal 587 in BUKU II.txt line 5095. Remainder: ''
+Found Pasal 588 in BUKU II.txt line 5104. Remainder: ''
+Found Pasal 589 in BUKU II.txt line 5117. Remainder: ''
+Found Pasal 590 in BUKU II.txt line 5131. Remainder: ''
+Found Pasal 591 in BUKU II.txt line 5155. Remainder: ''
+Found Pasal 592 in BUKU II.txt line 5169. Remainder: ''
+Found Pasal 593 in BUKU II.txt line 5181. Remainder: ''
+Found Pasal 594 in BUKU II.txt line 5188. Remainder: ''
+Found Pasal 595 in BUKU II.txt line 5199. Remainder: ''
+Found Pasal 596 in BUKU II.txt line 5210. Remainder: ''
+Found Pasal 597 in BUKU II.txt line 5218. Remainder: ''
+Found Pasal 598 in BUKU II.txt line 5226. Remainder: ''
+Found Pasal 599 in BUKU II.txt line 5244. Remainder: ''
+Found Pasal 600 in BUKU II.txt line 5281. Remainder: ''
+Found Pasal 601 in BUKU II.txt line 5292. Remainder: ''
+Found Pasal 602 in BUKU II.txt line 5304. Remainder: ''
+Found Pasal 603 in BUKU II.txt line 5314. Remainder: ''
+Found Pasal 604 in BUKU II.txt line 5324. Remainder: ''
+Found Pasal 605 in BUKU II.txt line 5335. Remainder: ''
+Found Pasal 606 in BUKU II.txt line 5358. Remainder: ''
+Found Pasal 607 in BUKU II.txt line 5373. Remainder: ''
+Found Pasal 608 in BUKU II.txt line 5432. Remainder: ''
+Found Pasal 609 in BUKU II.txt line 5437. Remainder: ''
+Found Pasal 610 in BUKU II.txt line 5471. Remainder: ''
+Found Pasal 611 in BUKU II.txt line 5509. Remainder: ''
+Found Pasal 612 in BUKU II.txt line 5514. Remainder: ''
+Found Pasal 613 in BUKU II.txt line 5522. Remainder: ''
+Found Pasal 614 in BUKU II.txt line 5531. Remainder: ''
+Found Pasal 615 in BUKU II.txt line 5557. Remainder: ''
+Found Pasal 616 in BUKU II.txt line 5571. Remainder: ''
+Found Pasal 617 in BUKU II.txt line 5575. Remainder: ''
+Found Pasal 618 in BUKU II.txt line 5588. Remainder: ''
+Found Pasal 619 in BUKU II.txt line 5591. Remainder: ''
+Found Pasal 620 in BUKU II.txt line 5594. Remainder: ''
+Found Pasal 621 in BUKU II.txt line 5597. Remainder: ''
+Found Pasal 622 in BUKU II.txt line 5602. Remainder: ''
+Found Pasal 40 in BUKU II.txt line 5629. Remainder: 'Undang-Undang Nomor 26 Tahun 2O00'
+Found Pasal 45 in BUKU II.txt line 5675. Remainder: 'A ayat (21, Pasal 46, Pasal 47, dan Pasal 51'
+Found Pasal 69 in BUKU II.txt line 5812. Remainder: 'Undang-Undang yang bersangkutan,'
+Found Pasal 623 in BUKU II.txt line 5958. Remainder: ''
+Found Pasal 624 in BUKU II.txt line 5961. Remainder: ''
+Found Pasal 581 in last_part.txt line 10. Remainder: ''
+Found Pasal 582 in last_part.txt line 16. Remainder: ''
+Found Pasal 583 in last_part.txt line 22. Remainder: ''
+Found Pasal 584 in last_part.txt line 31. Remainder: ''
+Found Pasal 585 in last_part.txt line 43. Remainder: ''
+Found Pasal 586 in last_part.txt line 48. Remainder: ''
+Found Pasal 587 in last_part.txt line 54. Remainder: ''
+Found Pasal 588 in last_part.txt line 63. Remainder: ''
+Found Pasal 589 in last_part.txt line 76. Remainder: ''
+Found Pasal 590 in last_part.txt line 90. Remainder: ''
+Found Pasal 591 in last_part.txt line 114. Remainder: ''
+Found Pasal 592 in last_part.txt line 128. Remainder: ''
+Found Pasal 593 in last_part.txt line 140. Remainder: ''
+Found Pasal 594 in last_part.txt line 147. Remainder: ''
+Found Pasal 595 in last_part.txt line 158. Remainder: ''
+Found Pasal 596 in last_part.txt line 169. Remainder: ''
+Found Pasal 597 in last_part.txt line 177. Remainder: ''
+Found Pasal 598 in last_part.txt line 185. Remainder: ''
+Found Pasal 599 in last_part.txt line 203. Remainder: ''
+Found Pasal 600 in last_part.txt line 240. Remainder: ''
+Found Pasal 601 in last_part.txt line 251. Remainder: ''
+Found Pasal 602 in last_part.txt line 263. Remainder: ''
+Found Pasal 603 in last_part.txt line 274. Remainder: ''
+Found Pasal 605 in last_part.txt line 292. Remainder: ''
+Found Pasal 606 in last_part.txt line 314. Remainder: ''
+Found Pasal 607 in last_part.txt line 330. Remainder: ''
+Found Pasal 608 in last_part.txt line 389. Remainder: ''
+Found Pasal 609 in last_part.txt line 394. Remainder: ''
+Found Pasal 610 in last_part.txt line 428. Remainder: ''
+Found Pasal 611 in last_part.txt line 465. Remainder: ''
+Found Pasal 612 in last_part.txt line 472. Remainder: ''
+Found Pasal 613 in last_part.txt line 481. Remainder: ''
+Found Pasal 614 in last_part.txt line 489. Remainder: ''
+Found Pasal 615 in last_part.txt line 521. Remainder: ''
+Found Pasal 616 in last_part.txt line 534. Remainder: ''
+Found Pasal 617 in last_part.txt line 538. Remainder: ''
+Found Pasal 618 in last_part.txt line 550. Remainder: ''
+Found Pasal 619 in last_part.txt line 556. Remainder: ''
+Found Pasal 620 in last_part.txt line 562. Remainder: ''
+Found Pasal 621 in last_part.txt line 569. Remainder: ''
+Found Pasal 622 in last_part.txt line 573. Remainder: ''
+Found Pasal 13 in last_part.txt line 638. Remainder: 'Undang-Undang Nomor 31 Tahun 1999'
+Found Pasal 40 in last_part.txt line 650. Remainder: 'Undang-Undang Nomor 26 Tahun 2O00'
+Found Pasal 45 in last_part.txt line 696. Remainder: 'A ayat (21, Pasal 46, Pasal 47, dan Pasal 51'
+Found Pasal 69 in last_part.txt line 842. Remainder: 'Undang-Undang yang bersangkutan,'
+Found Pasal 623 in last_part.txt line 996. Remainder: ''
+Found Pasal 624 in last_part.txt line 998. Remainder: ''
+WARNING: Duplicate Pasal 2 found. Overwriting.
+WARNING: Duplicate Pasal 2 found. Overwriting.
+WARNING: Duplicate Pasal 280 found. Overwriting.
+WARNING: Duplicate Pasal 280 found. Overwriting.
+WARNING: Duplicate Pasal 366 found. Overwriting.
+WARNING: Duplicate Pasal 188 found. Overwriting.
+WARNING: Duplicate Pasal 189 found. Overwriting.
+WARNING: Duplicate Pasal 190 found. Overwriting.
+WARNING: Duplicate Pasal 191 found. Overwriting.
+WARNING: Duplicate Pasal 192 found. Overwriting.
+WARNING: Duplicate Pasal 193 found. Overwriting.
+WARNING: Duplicate Pasal 194 found. Overwriting.
+WARNING: Duplicate Pasal 195 found. Overwriting.
+WARNING: Duplicate Pasal 196 found. Overwriting.
+WARNING: Duplicate Pasal 197 found. Overwriting.
+WARNING: Duplicate Pasal 198 found. Overwriting.
+WARNING: Duplicate Pasal 199 found. Overwriting.
+WARNING: Duplicate Pasal 200 found. Overwriting.
+WARNING: Duplicate Pasal 201 found. Overwriting.
+WARNING: Duplicate Pasal 202 found. Overwriting.
+WARNING: Duplicate Pasal 203 found. Overwriting.
+WARNING: Duplicate Pasal 204 found. Overwriting.
+WARNING: Duplicate Pasal 205 found. Overwriting.
+WARNING: Duplicate Pasal 206 found. Overwriting.
+WARNING: Duplicate Pasal 207 found. Overwriting.
+WARNING: Duplicate Pasal 208 found. Overwriting.
+WARNING: Duplicate Pasal 209 found. Overwriting.
+WARNING: Duplicate Pasal 210 found. Overwriting.
+WARNING: Duplicate Pasal 211 found. Overwriting.
+WARNING: Duplicate Pasal 212 found. Overwriting.
+WARNING: Duplicate Pasal 213 found. Overwriting.
+WARNING: Duplicate Pasal 214 found. Overwriting.
+WARNING: Duplicate Pasal 215 found. Overwriting.
+WARNING: Duplicate Pasal 216 found. Overwriting.
+WARNING: Duplicate Pasal 217 found. Overwriting.
+WARNING: Duplicate Pasal 218 found. Overwriting.
+WARNING: Duplicate Pasal 219 found. Overwriting.
+WARNING: Duplicate Pasal 220 found. Overwriting.
+WARNING: Duplicate Pasal 221 found. Overwriting.
+WARNING: Duplicate Pasal 222 found. Overwriting.
+WARNING: Duplicate Pasal 223 found. Overwriting.
+WARNING: Duplicate Pasal 224 found. Overwriting.
+WARNING: Duplicate Pasal 225 found. Overwriting.
+WARNING: Duplicate Pasal 226 found. Overwriting.
+WARNING: Duplicate Pasal 227 found. Overwriting.
+WARNING: Duplicate Pasal 228 found. Overwriting.
+WARNING: Duplicate Pasal 229 found. Overwriting.
+WARNING: Duplicate Pasal 230 found. Overwriting.
+WARNING: Duplicate Pasal 231 found. Overwriting.
+WARNING: Duplicate Pasal 232 found. Overwriting.
+WARNING: Duplicate Pasal 233 found. Overwriting.
+WARNING: Duplicate Pasal 234 found. Overwriting.
+WARNING: Duplicate Pasal 235 found. Overwriting.
+WARNING: Duplicate Pasal 236 found. Overwriting.
+WARNING: Duplicate Pasal 237 found. Overwriting.
+WARNING: Duplicate Pasal 238 found. Overwriting.
+WARNING: Duplicate Pasal 239 found. Overwriting.
+WARNING: Duplicate Pasal 240 found. Overwriting.
+WARNING: Duplicate Pasal 241 found. Overwriting.
+WARNING: Duplicate Pasal 242 found. Overwriting.
+WARNING: Duplicate Pasal 243 found. Overwriting.
+WARNING: Duplicate Pasal 244 found. Overwriting.
+WARNING: Duplicate Pasal 245 found. Overwriting.
+WARNING: Duplicate Pasal 246 found. Overwriting.
+WARNING: Duplicate Pasal 247 found. Overwriting.
+WARNING: Duplicate Pasal 248 found. Overwriting.
+WARNING: Duplicate Pasal 249 found. Overwriting.
+WARNING: Duplicate Pasal 250 found. Overwriting.
+WARNING: Duplicate Pasal 251 found. Overwriting.
+WARNING: Duplicate Pasal 252 found. Overwriting.
+WARNING: Duplicate Pasal 253 found. Overwriting.
+WARNING: Duplicate Pasal 254 found. Overwriting.
+WARNING: Duplicate Pasal 255 found. Overwriting.
+WARNING: Duplicate Pasal 256 found. Overwriting.
+WARNING: Duplicate Pasal 257 found. Overwriting.
+WARNING: Duplicate Pasal 258 found. Overwriting.
+WARNING: Duplicate Pasal 259 found. Overwriting.
+WARNING: Duplicate Pasal 260 found. Overwriting.
+WARNING: Duplicate Pasal 261 found. Overwriting.
+WARNING: Duplicate Pasal 262 found. Overwriting.
+WARNING: Duplicate Pasal 263 found. Overwriting.
+WARNING: Duplicate Pasal 264 found. Overwriting.
+WARNING: Duplicate Pasal 265 found. Overwriting.
+WARNING: Duplicate Pasal 266 found. Overwriting.
+WARNING: Duplicate Pasal 267 found. Overwriting.
+WARNING: Duplicate Pasal 268 found. Overwriting.
+WARNING: Duplicate Pasal 269 found. Overwriting.
+WARNING: Duplicate Pasal 272 found. Overwriting.
+WARNING: Duplicate Pasal 273 found. Overwriting.
+WARNING: Duplicate Pasal 274 found. Overwriting.
+WARNING: Duplicate Pasal 275 found. Overwriting.
+WARNING: Duplicate Pasal 276 found. Overwriting.
+WARNING: Duplicate Pasal 277 found. Overwriting.
+WARNING: Duplicate Pasal 278 found. Overwriting.
+WARNING: Duplicate Pasal 280 found. Overwriting.
+WARNING: Duplicate Pasal 279 found. Overwriting.
+WARNING: Duplicate Pasal 280 found. Overwriting.
+WARNING: Duplicate Pasal 279 found. Overwriting.
+WARNING: Duplicate Pasal 280 found. Overwriting.
+WARNING: Duplicate Pasal 281 found. Overwriting.
+WARNING: Duplicate Pasal 282 found. Overwriting.
+WARNING: Duplicate Pasal 283 found. Overwriting.
+WARNING: Duplicate Pasal 284 found. Overwriting.
+WARNING: Duplicate Pasal 285 found. Overwriting.
+WARNING: Duplicate Pasal 286 found. Overwriting.
+WARNING: Duplicate Pasal 287 found. Overwriting.
+WARNING: Duplicate Pasal 288 found. Overwriting.
+WARNING: Duplicate Pasal 289 found. Overwriting.
+WARNING: Duplicate Pasal 290 found. Overwriting.
+WARNING: Duplicate Pasal 291 found. Overwriting.
+WARNING: Duplicate Pasal 292 found. Overwriting.
+WARNING: Duplicate Pasal 293 found. Overwriting.
+WARNING: Duplicate Pasal 294 found. Overwriting.
+WARNING: Duplicate Pasal 295 found. Overwriting.
+WARNING: Duplicate Pasal 296 found. Overwriting.
+WARNING: Duplicate Pasal 297 found. Overwriting.
+WARNING: Duplicate Pasal 298 found. Overwriting.
+WARNING: Duplicate Pasal 299 found. Overwriting.
+WARNING: Duplicate Pasal 300 found. Overwriting.
+WARNING: Duplicate Pasal 301 found. Overwriting.
+WARNING: Duplicate Pasal 302 found. Overwriting.
+WARNING: Duplicate Pasal 303 found. Overwriting.
+WARNING: Duplicate Pasal 304 found. Overwriting.
+WARNING: Duplicate Pasal 305 found. Overwriting.
+WARNING: Duplicate Pasal 306 found. Overwriting.
+WARNING: Duplicate Pasal 307 found. Overwriting.
+WARNING: Duplicate Pasal 308 found. Overwriting.
+WARNING: Duplicate Pasal 309 found. Overwriting.
+WARNING: Duplicate Pasal 310 found. Overwriting.
+WARNING: Duplicate Pasal 311 found. Overwriting.
+WARNING: Duplicate Pasal 312 found. Overwriting.
+WARNING: Duplicate Pasal 313 found. Overwriting.
+WARNING: Duplicate Pasal 314 found. Overwriting.
+WARNING: Duplicate Pasal 315 found. Overwriting.
+WARNING: Duplicate Pasal 316 found. Overwriting.
+WARNING: Duplicate Pasal 317 found. Overwriting.
+WARNING: Duplicate Pasal 319 found. Overwriting.
+WARNING: Duplicate Pasal 320 found. Overwriting.
+WARNING: Duplicate Pasal 321 found. Overwriting.
+WARNING: Duplicate Pasal 322 found. Overwriting.
+WARNING: Duplicate Pasal 323 found. Overwriting.
+WARNING: Duplicate Pasal 324 found. Overwriting.
+WARNING: Duplicate Pasal 325 found. Overwriting.
+WARNING: Duplicate Pasal 326 found. Overwriting.
+WARNING: Duplicate Pasal 327 found. Overwriting.
+WARNING: Duplicate Pasal 328 found. Overwriting.
+WARNING: Duplicate Pasal 329 found. Overwriting.
+WARNING: Duplicate Pasal 330 found. Overwriting.
+WARNING: Duplicate Pasal 332 found. Overwriting.
+WARNING: Duplicate Pasal 333 found. Overwriting.
+WARNING: Duplicate Pasal 334 found. Overwriting.
+WARNING: Duplicate Pasal 335 found. Overwriting.
+WARNING: Duplicate Pasal 336 found. Overwriting.
+WARNING: Duplicate Pasal 337 found. Overwriting.
+WARNING: Duplicate Pasal 338 found. Overwriting.
+WARNING: Duplicate Pasal 339 found. Overwriting.
+WARNING: Duplicate Pasal 340 found. Overwriting.
+WARNING: Duplicate Pasal 341 found. Overwriting.
+WARNING: Duplicate Pasal 342 found. Overwriting.
+WARNING: Duplicate Pasal 343 found. Overwriting.
+WARNING: Duplicate Pasal 344 found. Overwriting.
+WARNING: Duplicate Pasal 345 found. Overwriting.
+WARNING: Duplicate Pasal 346 found. Overwriting.
+WARNING: Duplicate Pasal 347 found. Overwriting.
+WARNING: Duplicate Pasal 348 found. Overwriting.
+WARNING: Duplicate Pasal 349 found. Overwriting.
+WARNING: Duplicate Pasal 350 found. Overwriting.
+WARNING: Duplicate Pasal 351 found. Overwriting.
+WARNING: Duplicate Pasal 352 found. Overwriting.
+WARNING: Duplicate Pasal 353 found. Overwriting.
+WARNING: Duplicate Pasal 354 found. Overwriting.
+WARNING: Duplicate Pasal 355 found. Overwriting.
+WARNING: Duplicate Pasal 356 found. Overwriting.
+WARNING: Duplicate Pasal 357 found. Overwriting.
+WARNING: Duplicate Pasal 358 found. Overwriting.
+WARNING: Duplicate Pasal 359 found. Overwriting.
+WARNING: Duplicate Pasal 360 found. Overwriting.
+WARNING: Duplicate Pasal 361 found. Overwriting.
+WARNING: Duplicate Pasal 362 found. Overwriting.
+WARNING: Duplicate Pasal 363 found. Overwriting.
+WARNING: Duplicate Pasal 364 found. Overwriting.
+WARNING: Duplicate Pasal 365 found. Overwriting.
+WARNING: Duplicate Pasal 366 found. Overwriting.
+WARNING: Duplicate Pasal 367 found. Overwriting.
+WARNING: Duplicate Pasal 366 found. Overwriting.
+WARNING: Duplicate Pasal 368 found. Overwriting.
+WARNING: Duplicate Pasal 369 found. Overwriting.
+WARNING: Duplicate Pasal 370 found. Overwriting.
+WARNING: Duplicate Pasal 371 found. Overwriting.
+WARNING: Duplicate Pasal 372 found. Overwriting.
+WARNING: Duplicate Pasal 373 found. Overwriting.
+WARNING: Duplicate Pasal 374 found. Overwriting.
+WARNING: Duplicate Pasal 375 found. Overwriting.
+WARNING: Duplicate Pasal 376 found. Overwriting.
+WARNING: Duplicate Pasal 377 found. Overwriting.
+WARNING: Duplicate Pasal 378 found. Overwriting.
+WARNING: Duplicate Pasal 379 found. Overwriting.
+WARNING: Duplicate Pasal 380 found. Overwriting.
+WARNING: Duplicate Pasal 381 found. Overwriting.
+WARNING: Duplicate Pasal 382 found. Overwriting.
+WARNING: Duplicate Pasal 383 found. Overwriting.
+WARNING: Duplicate Pasal 384 found. Overwriting.
+WARNING: Duplicate Pasal 385 found. Overwriting.
+WARNING: Duplicate Pasal 386 found. Overwriting.
+WARNING: Duplicate Pasal 387 found. Overwriting.
+WARNING: Duplicate Pasal 388 found. Overwriting.
+WARNING: Duplicate Pasal 389 found. Overwriting.
+WARNING: Duplicate Pasal 390 found. Overwriting.
+WARNING: Duplicate Pasal 391 found. Overwriting.
+WARNING: Duplicate Pasal 392 found. Overwriting.
+WARNING: Duplicate Pasal 393 found. Overwriting.
+WARNING: Duplicate Pasal 395 found. Overwriting.
+WARNING: Duplicate Pasal 396 found. Overwriting.
+WARNING: Duplicate Pasal 397 found. Overwriting.
+WARNING: Duplicate Pasal 398 found. Overwriting.
+WARNING: Duplicate Pasal 399 found. Overwriting.
+WARNING: Duplicate Pasal 400 found. Overwriting.
+WARNING: Duplicate Pasal 401 found. Overwriting.
+WARNING: Duplicate Pasal 402 found. Overwriting.
+WARNING: Duplicate Pasal 403 found. Overwriting.
+WARNING: Duplicate Pasal 404 found. Overwriting.
+WARNING: Duplicate Pasal 405 found. Overwriting.
+WARNING: Duplicate Pasal 406 found. Overwriting.
+WARNING: Duplicate Pasal 407 found. Overwriting.
+WARNING: Duplicate Pasal 408 found. Overwriting.
+WARNING: Duplicate Pasal 409 found. Overwriting.
+WARNING: Duplicate Pasal 410 found. Overwriting.
+WARNING: Duplicate Pasal 411 found. Overwriting.
+WARNING: Duplicate Pasal 412 found. Overwriting.
+WARNING: Duplicate Pasal 413 found. Overwriting.
+WARNING: Duplicate Pasal 414 found. Overwriting.
+WARNING: Duplicate Pasal 415 found. Overwriting.
+WARNING: Duplicate Pasal 417 found. Overwriting.
+WARNING: Duplicate Pasal 418 found. Overwriting.
+WARNING: Duplicate Pasal 419 found. Overwriting.
+WARNING: Duplicate Pasal 420 found. Overwriting.
+WARNING: Duplicate Pasal 421 found. Overwriting.
+WARNING: Duplicate Pasal 422 found. Overwriting.
+WARNING: Duplicate Pasal 424 found. Overwriting.
+WARNING: Duplicate Pasal 425 found. Overwriting.
+WARNING: Duplicate Pasal 427 found. Overwriting.
+WARNING: Duplicate Pasal 428 found. Overwriting.
+WARNING: Duplicate Pasal 429 found. Overwriting.
+WARNING: Duplicate Pasal 430 found. Overwriting.
+WARNING: Duplicate Pasal 431 found. Overwriting.
+WARNING: Duplicate Pasal 432 found. Overwriting.
+WARNING: Duplicate Pasal 433 found. Overwriting.
+WARNING: Duplicate Pasal 434 found. Overwriting.
+WARNING: Duplicate Pasal 435 found. Overwriting.
+WARNING: Duplicate Pasal 436 found. Overwriting.
+WARNING: Duplicate Pasal 437 found. Overwriting.
+WARNING: Duplicate Pasal 438 found. Overwriting.
+WARNING: Duplicate Pasal 439 found. Overwriting.
+WARNING: Duplicate Pasal 440 found. Overwriting.
+WARNING: Duplicate Pasal 441 found. Overwriting.
+WARNING: Duplicate Pasal 40 found. Overwriting.
+WARNING: Duplicate Pasal 45 found. Overwriting.
+WARNING: Duplicate Pasal 69 found. Overwriting.
+WARNING: Duplicate Pasal 581 found. Overwriting.
+WARNING: Duplicate Pasal 582 found. Overwriting.
+WARNING: Duplicate Pasal 583 found. Overwriting.
+WARNING: Duplicate Pasal 584 found. Overwriting.
+WARNING: Duplicate Pasal 585 found. Overwriting.
+WARNING: Duplicate Pasal 586 found. Overwriting.
+WARNING: Duplicate Pasal 587 found. Overwriting.
+WARNING: Duplicate Pasal 588 found. Overwriting.
+WARNING: Duplicate Pasal 589 found. Overwriting.
+WARNING: Duplicate Pasal 590 found. Overwriting.
+WARNING: Duplicate Pasal 591 found. Overwriting.
+WARNING: Duplicate Pasal 592 found. Overwriting.
+WARNING: Duplicate Pasal 593 found. Overwriting.
+WARNING: Duplicate Pasal 594 found. Overwriting.
+WARNING: Duplicate Pasal 595 found. Overwriting.
+WARNING: Duplicate Pasal 596 found. Overwriting.
+WARNING: Duplicate Pasal 597 found. Overwriting.
+WARNING: Duplicate Pasal 598 found. Overwriting.
+WARNING: Duplicate Pasal 599 found. Overwriting.
+WARNING: Duplicate Pasal 600 found. Overwriting.
+WARNING: Duplicate Pasal 601 found. Overwriting.
+WARNING: Duplicate Pasal 602 found. Overwriting.
+WARNING: Duplicate Pasal 603 found. Overwriting.
+WARNING: Duplicate Pasal 605 found. Overwriting.
+WARNING: Duplicate Pasal 606 found. Overwriting.
+WARNING: Duplicate Pasal 607 found. Overwriting.
+WARNING: Duplicate Pasal 608 found. Overwriting.
+WARNING: Duplicate Pasal 609 found. Overwriting.
+WARNING: Duplicate Pasal 610 found. Overwriting.
+WARNING: Duplicate Pasal 611 found. Overwriting.
+WARNING: Duplicate Pasal 612 found. Overwriting.
+WARNING: Duplicate Pasal 613 found. Overwriting.
+WARNING: Duplicate Pasal 614 found. Overwriting.
+WARNING: Duplicate Pasal 615 found. Overwriting.
+WARNING: Duplicate Pasal 616 found. Overwriting.
+WARNING: Duplicate Pasal 617 found. Overwriting.
+WARNING: Duplicate Pasal 618 found. Overwriting.
+WARNING: Duplicate Pasal 619 found. Overwriting.
+WARNING: Duplicate Pasal 620 found. Overwriting.
+WARNING: Duplicate Pasal 621 found. Overwriting.
+WARNING: Duplicate Pasal 622 found. Overwriting.
+WARNING: Duplicate Pasal 13 found. Overwriting.
+WARNING: Duplicate Pasal 40 found. Overwriting.
+WARNING: Duplicate Pasal 45 found. Overwriting.
+WARNING: Duplicate Pasal 69 found. Overwriting.
+WARNING: Duplicate Pasal 623 found. Overwriting.
+WARNING: Duplicate Pasal 624 found. Overwriting.

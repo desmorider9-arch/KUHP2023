@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KUHP Indonesia</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+
+<body>
+    <div id="app">
+        <!-- Sidebar / Menu -->
+        <aside id="sidebar" class="sidebar hidden">
+            <div class="sidebar-header">
+                <h2>Daftar Bab</h2>
+                <button id="close-sidebar" class="icon-btn" aria-label="Tutup Menu"><i data-lucide="x"></i></button>
+            </div>
+            <div id="bab-list" class="bab-list">
+                <!-- Populated by JS -->
+            </div>
+        </aside>
+
+        <div id="overlay" class="overlay hidden"></div>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="app-header">
+                <button id="menu-btn" class="icon-btn" aria-label="Buka Menu"><i data-lucide="menu"></i></button>
+                <div class="header-title">
+                    <h1>KUHP</h1>
+                    <span class="subtitle">Kitab Undang-Undang Hukum Pidana</span>
+                </div>
+                <!-- Optional: Settings or Info -->
+                <button id="info-btn" class="icon-btn" aria-label="Informasi Aplikasi"><i
+                        data-lucide="info"></i></button>
+            </header>
+
+            <div class="search-container">
+                <div class="search-bar">
+                    <i data-lucide="search" class="search-icon"></i>
+                    <input type="text" id="search-input" placeholder="Cari Pasal (mis. 1) atau kata kunci...">
+                    <button id="clear-search" class="hidden" aria-label="Hapus Pencarian"><i
+                            data-lucide="x-circle"></i></button>
+                </div>
+            </div>
+
+            <div id="content-area" class="content-list">
+                <!-- Pasal Cards will go here -->
+                <div class="loading-spinner">Memuat data...</div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Load Data first -->
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+
+</html>

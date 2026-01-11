@@ -1,0 +1,80 @@
+default_platform(:ios)
+
+platform :ios do
+  desc "CI build using the .xcodeproj (use this lane from CI)"
+  lane :ci_build do
+    gym(
+      project: "ios/App/App.xcodeproj",
+      scheme: "App",
+      clean: true,
+      silent: true
+    )
+  end
+
+  desc "Archive and export an IPA with code signing.\n
+  Requires: APP_IDENTIFIER env var (or pass :app_identifier).\n
+  Optional env vars: EXPORT_METHOD (app-store, ad-hoc, enterprise, development),\n  USE_MATCH (true/false, default true), MATCH_TYPE (appstore/ad-hoc/development)"
+  lane :export_ipa do |options|
+    app_id = ENV['APP_IDENTIFIER'] || options[:app_identifier]
+    UI.user_error!("APP_IDENTIFIER must be set as ENV['APP_IDENTIFIER'] or passed as :app_identifier") if app_id.to_s.empty?
+
+    export_method = ENV['EXPORT_METHOD'] || ENV['MATCH_TYPE'] || 'app-store'
+    use_match = (ENV.fetch('USE_MATCH', 'true') == 'true')
+
+    if use_match
+      # Use match to fetch certificates and provisioning profiles.
+      # The match repository and credentials should be configured via Match's env vars
+      # (MATCH_PASSWORD, MATCH_GIT_URL, FASTLANE_USER, FASTLANE_PASSWORD) on CI.
+      match_type = export_method == 'app-store' ? 'appstore' : export_method
+      match(type: match_type, app_identifier: app_id)
+    else
+      UI.message("Skipping match, assuming provisioning is already configured on the runner")
+    end
+
+    # Build and export the IPA. gym will pick up installed provisioning profiles / certs.
+    gym(
+      project: "ios/App/App.xcodeproj",
+      scheme: "App",
+      configuration: "Release",
+      clean: true,
+      export_method: export_method,
+      output_directory: "fastlane/output",
+      output_name: "#{app_id.split('.').last}.ipa"
+    )
+
+    UI.success("IPA exported to fastlane/output/")
+  end
+
+    desc "Build, export an IPA and upload to App Store Connect (App Store).\n
+    Requires: APP_IDENTIFIER env var (or pass :app_identifier).\n
+    Authentication: configure FASTLANE_USER/FASTLANE_PASSWORD or App Store Connect API key in CI."
+    lane :release do |options|
+      app_id = ENV['APP_IDENTIFIER'] || options[:app_identifier]
+      UI.user_error!("APP_IDENTIFIER must be set as ENV['APP_IDENTIFIER'] or passed as :app_identifier") if app_id.to_s.empty?
+
+      UI.message("Starting release for #{app_id}")
+
+      # Build and export the IPA (will run match if USE_MATCH is true)
+      export_ipa(app_identifier: app_id)
+
+      ipa_name = "#{app_id.split('.').last}.ipa"
+      ipa_path = File.join(Dir.pwd, "fastlane", "output", ipa_name)
+
+      UI.user_error!("IPA not found at #{ipa_path}") unless File.exist?(ipa_path)
+
+      UI.message("Uploading IPA to App Store Connect: #{ipa_path}")
+
+      # upload_to_app_store will use App Store Connect API key if configured via
+      # the `app_store_connect_api_key` action or FASTLANE_API_KEY_* env vars,
+      # otherwise it will fall back to FASTLANE_USER / FASTLANE_PASSWORD.
+      upload_to_app_store(
+        ipa: ipa_path,
+        skip_screenshots: true,
+        skip_metadata: true,
+        submit_for_review: false
+      )
+
+      UI.success("Upload finished")
+    end
+
+end
